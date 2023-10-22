@@ -13,7 +13,7 @@ API_HASH = os.environ.get("API_HASH", "")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "mavimovie") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "") 
 
              # Don't Remove Credit @MaviMods
              # Subscribe YouTube Channel For Amazing Bot @MaviMods
